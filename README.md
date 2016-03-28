@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fibonacci Sequence (Rachel Winsor)</title>
+        <title>Fibonacci Sequence </title>
     </head>
     <body>
     <div id = "userInterface" class="container">
-            <button onclick="main()">Give me my Fibonacci Sequence</button>
+            <button onclick="main()">Get Fibonacci Sequence</button>
             <div id = "inputPanel">
                 <label for="n">Length of Fibonacci Sequence: </label>
                 <input type="number" id="n" value="5"><br>
